@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/Recipes/task/build/
+/Recipes/task/out/
+/Recipes/task/out/production/classes/
+/Topics/LocalDate/Print dates of a year with an offset/out/
+/Topics/LocalDate/Print dates of a year with an offset/out/production/classes/
+/Topics/Map and flatMap/Maximum of the absolute values/out/
+/Topics/Map and flatMap/Maximum of the absolute values/out/production/classes/
+/Topics/Stream filtering/Bad words detecting/out/
+/Topics/Stream filtering/Bad words detecting/out/production/classes/
+/Topics/Stream filtering/Numbers filtering/out/
+/Topics/Stream filtering/Numbers filtering/out/production/classes/
+/Topics/The utility class Collections/Rotating table/out/
+/Topics/The utility class Collections/Rotating table/out/production/classes/
